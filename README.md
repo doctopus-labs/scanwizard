@@ -19,7 +19,7 @@ ScanWizard is a community-driven project, and we welcome contributions, feedback
 
 ## License
 
-ScanWizard is open-source software released under the [MIT License](LICENSE).
+ScanWizard is open-source software released under the MIT LICENSE
 
 ---
 
